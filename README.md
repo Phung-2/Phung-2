@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tăng Ngọc Phụng</h1>
 <h3 align="center">3rd Year Computer Science Education Student at HCMUE</h3>
-
+![Visitor Count](https://profile-counter.glitch.me/{Phung-2}/count.svg)
 - 🌱 I’m currently learning **Django, HTML, CSS, JavaScripts...**
 
 - 📫 How to reach me **tangphung126@gmail.com**
